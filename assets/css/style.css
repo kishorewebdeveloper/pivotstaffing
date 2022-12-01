@@ -317,7 +317,7 @@ img.left {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .section-ptb {
@@ -4075,9 +4075,12 @@ img.left {
   font-size: 50px;
   opacity: 0;
   visibility: hidden;
-  -webkit-transition: opacity .5s, visibility .5s;
-  -o-transition: opacity .5s, visibility .5s;
-  transition: opacity .5s, visibility .5s;
+  -webkit-transition: opacity .5s,
+ visibility .5s;
+  -o-transition: opacity .5s,
+ visibility .5s;
+  transition: opacity .5s,
+ visibility .5s;
 }
 
 .slider .parallax-slider .caption p {
@@ -10340,7 +10343,7 @@ body.land-demo2 {
 
 body.land-demo2 p {
   font-size: 15px;
-  color: #616075;
+  color: black;
 }
 
 body.land-demo2 .bg-gray {
@@ -10348,7 +10351,7 @@ body.land-demo2 .bg-gray {
 }
 
 body.index-main .bg-gray {
-  background: #fafafb;
+  background: #1F242E;
 }
 
 /* ====================== [ End Colors Skin  ] ====================== */
