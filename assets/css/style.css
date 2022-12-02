@@ -8210,7 +8210,7 @@ header.simple-header .path a:after {
 }
 
 .testimonials .swiper-img .item {
-  height: 550px;
+  height: 460px;
 }
 
 .testimonials .swiper-img .item img {
@@ -10375,7 +10375,7 @@ body.startup .main-color {
 }
 
 body.cr-agency {
-  color: #3b3f82;
+  color: #181b31 !important;
 }
 
 body.cr-agency p {
