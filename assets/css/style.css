@@ -11469,5 +11469,13 @@ body.index-main .bg-gray {
     margin: 30px auto;
   }
 }
+.tacbox {
+  display:block;
+  padding: 1em;
+  margin: 2em;
+  border: 3px solid #ddd;
+  background-color: #eee;
+  max-width: 800px;
+}
 
 /* ====================== [ End Responsive ] ====================== */
