@@ -11477,5 +11477,25 @@ body.index-main .bg-gray {
   background-color: #eee;
   max-width: 800px;
 }
-
+.navbar-brand {
+  margin-right: -5rem;
+}
+.logo-text{
+  font-size: 18px;
+  font-weight: 800;
+}
+.btn-small{
+  padding: 5px 10px 5px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+.cont-link{
+  display: flex;
+  justify-content: space-around;
+  place-items: flex-end;
+}
+.cont-link span{
+  font-size: 18px;
+  font-weight: 700;
+}
 /* ====================== [ End Responsive ] ====================== */
