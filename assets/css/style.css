@@ -9013,7 +9013,7 @@ header.simple-header .path a:after {
 }
 
 .blog-grid .item .cont {
-  padding: 40px 30px;
+  padding: 20px 20px;
 }
 
 .blog-grid .item .cont .info {
@@ -9041,7 +9041,7 @@ header.simple-header .path a:after {
 }
 
 .blog-grid .item .cont .title h5 {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.7;
 }
@@ -11469,33 +11469,52 @@ body.index-main .bg-gray {
     margin: 30px auto;
   }
 }
+
 .tacbox {
-  display:block;
+  display: block;
   padding: 1em;
   margin: 2em;
   border: 3px solid #ddd;
   background-color: #eee;
   max-width: 800px;
 }
+
 .navbar-brand {
   margin-right: -5rem;
 }
-.logo-text{
+
+.logo-text {
   font-size: 18px;
   font-weight: 800;
 }
-.btn-small{
+
+.btn-small {
   padding: 5px 10px 5px 10px;
-    border-radius: 6px;
-    font-size: 12px;
+  border-radius: 6px;
+  font-size: 12px;
 }
-.cont-link{
+
+.cont-link {
   display: flex;
   justify-content: space-around;
   place-items: flex-end;
 }
-.cont-link span{
+
+.cont-link span {
   font-size: 18px;
   font-weight: 700;
 }
+
+.radio {
+  display: inline-flex;
+  align-items: center;
+}
+
+
+
+.radio input {
+  margin: 0 0.5em 0;
+}
+
+
 /* ====================== [ End Responsive ] ====================== */
